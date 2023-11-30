@@ -1,26 +1,46 @@
 {
   "applicationId": "apps.khee.vidya",
-  "bannerEnabled": false,
-  "bannerId": 0,
-  "bannerMessage": "Now you can see institute holiday list also in 'My Leaves' screen.",
-  "bannerTitle": " Holidays List",
-  "enableChatModule": true,
   "fcmKey": "AAAAOGHjB5U:APA91bFAxD10PbNoWHDR9sKoi8mgy3RskWy-EHIIqB5Ol-W0hS3SStxKQfmOmdkf0BSpn2-1DbDnMl0UkfB70UX0B49_U9yyIWuQCLKwMNFmN3Xc2jzMd48uzX98P4VckP-ErqCgcL_J",
   "forceUpdate": 1,
-  "maintenanceEnabled": 0,
+  "maintenanceEnabled": true,
   "maintenanceMessage": "KHEE Vidya app is currently undergoing maintenance for improvements. The app will be temporarily unavailable during this time. We apologize for any inconvenience and appreciate your patience.",
-  "message": "* New UI Improvements * Holidays screen implemented * Dashboard UI Improvements * Minor bug fixes ** Note: If you are facing issue while updating, Please uninstall the app and Install again. ",
+  "releaseNotes": "* New UI Improvements * Holidays screen implemented * Dashboard UI Improvements * Minor bug fixes ** Note: If you are facing issue while updating, Please uninstall the app and Install again. ",
   "versionCode": 81,
   "versionName": "4.0.1",
-  "youtubeKey": "AIzaSyCumfVFfPVyrDiuOR2QNCWGfgwlomih51E",
+  "ytKey": "AIzaSyCumfVFfPVyrDiuOR2QNCWGfgwlomih51E",
   "banners": [
     {
-      "id": "1020",
+      "id": "231020",
       "title": "Test Banner",
       "message": "Test Banner",
-      "buttonText": "Test Banner",
-      "buttonAction": "open_settings",
-      
+      "button1Text": "Open Sessiongs",
+      "button1Action": "open_settings",
+      "button2Text": "Okay",
+      "button2Action": "okay",
+      "icon":"",
+      "active": true
+    },
+    {
+      "id": "231020",
+      "title": "Test Banner",
+      "message": "Test Banner",
+      "button1Text": "Open Sessiongs",
+      "button1Action": "open_settings",
+      "button2Text": "Okay",
+      "button2Action": "okay",
+      "icon":"",
+      "active": true
+    },
+    {
+      "id": "231020",
+      "title": "Test Banner",
+      "message": "Test Banner",
+      "button1Text": "Open Sessiongs",
+      "button1Action": "open_settings",
+      "button2Text": "Okay",
+      "button2Action": "okay",
+      "icon":"",
+      "active": true
     }
   ]
 }
