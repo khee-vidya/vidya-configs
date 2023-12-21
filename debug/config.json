@@ -1,5 +1,5 @@
 {
-  "applicationId": "apps.khee.vidya",
+  "applicationId": "apps.khee.vidya.debug",
   "fcmKey": "AAAAOGHjB5U:APA91bFAxD10PbNoWHDR9sKoi8mgy3RskWy-EHIIqB5Ol-W0hS3SStxKQfmOmdkf0BSpn2-1DbDnMl0UkfB70UX0B49_U9yyIWuQCLKwMNFmN3Xc2jzMd48uzX98P4VckP-ErqCgcL_J",
   "forceUpdate": 1,
   "maintenanceEnabled": true,
