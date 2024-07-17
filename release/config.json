@@ -1,14 +1,33 @@
-
 {
-  "applicationId": "apps.khee.vidya",
-  "fcmKey": "AAAAOGHjB5U:APA91bFAxD10PbNoWHDR9sKoi8mgy3RskWy-EHIIqB5Ol-W0hS3SStxKQfmOmdkf0BSpn2-1DbDnMl0UkfB70UX0B49_U9yyIWuQCLKwMNFmN3Xc2jzMd48uzX98P4VckP-ErqCgcL_J",
   "forceUpdate": 1,
   "maintenanceEnabled": true,
   "maintenanceMessage": "KHEE Vidya app is currently undergoing maintenance for improvements. The app will be temporarily unavailable during this time. We apologize for any inconvenience and appreciate your patience.",
-  "releaseNotes": "* New UI Improvements * Holidays screen implemented * Dashboard UI Improvements * Minor bug fixes ** Note: If you are facing issue while updating, Please uninstall the app and Install again. ",
-  "versionCode": 81,
-  "versionName": "4.0.1",
-  "ytKey": "AIzaSyCumfVFfPVyrDiuOR2QNCWGfgwlomih51E",
+  "releaseNotes": [
+    "• New UI Improvements",
+    "• Holidays screen implemented",
+    "• Dashboard UI Improvements",
+    "• Minor bug fixes"
+  ],
+  "versionCode": 118,
+  "versionName": "4.0.38",
+  "ytKey": "test_ytKey",
+  "aiKey": "aiKey",
+  "mailId": "mailId",
+  "mailKey": "mailKey",
+  "features": [
+    {
+      "featureName": "feature_x",
+      "featureEnabled": true
+    },
+    {
+      "featureName": "feature_y",
+      "featureEnabled": false
+    },
+    {
+      "featureName": "feature_z",
+      "featureEnabled": true
+    }
+  ],
   "banners": [
     {
       "id": "231020",
@@ -18,8 +37,10 @@
       "button1Action": "open_settings",
       "button2Text": "Okay",
       "button2Action": "okay",
-      "icon":"",
-      "active": true
+      "icon": "",
+      "active": true,
+      "startDate": "2024-03-29 00:00:00",
+      "endDate": "2024-03-29 00:00:00"
     },
     {
       "id": "231020",
@@ -29,8 +50,10 @@
       "button1Action": "open_settings",
       "button2Text": "Okay",
       "button2Action": "okay",
-      "icon":"",
-      "active": true
+      "icon": "",
+      "active": true,
+      "startDate": "2024-03-29 00:00:00",
+      "endDate": "2024-03-29 00:00:00"
     },
     {
       "id": "231020",
@@ -40,8 +63,10 @@
       "button1Action": "open_settings",
       "button2Text": "Okay",
       "button2Action": "okay",
-      "icon":"",
-      "active": true
+      "icon": "",
+      "active": true,
+      "startDate": "2024-03-29 00:00:00",
+      "endDate": "2024-03-29 00:00:00"
     }
   ]
 }
