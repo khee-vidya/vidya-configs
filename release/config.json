@@ -1,5 +1,5 @@
 {
-  "forceUpdate": 1,
+  "forceUpdate": true,
   "maintenanceEnabled": true,
   "maintenanceMessage": "KHEE Vidya app is currently undergoing maintenance for improvements. The app will be temporarily unavailable during this time. We apologize for any inconvenience and appreciate your patience.",
   "releaseNotes": [
@@ -10,21 +10,13 @@
   ],
   "versionCode": 118,
   "versionName": "4.0.38",
-  "ytKey": "test_ytKey",
-  "aiKey": "aiKey",
-  "mailId": "mailId",
-  "mailKey": "mailKey",
+  "ytKey": "GCRDXMaau5xQipJ8q0BcR5Uw7V8SBLi87AkaL1yPGv8qPT5Avf4AHD1bET2W32O3",
+  "aiKey": "Bte1Yayg//n+YJHgZ8jdh0e+TiuqR7jncX+MYVkuaoQ0/I7Dz5OnhKNqLxMCv70q",
+  "senderId": "5zqyLTVtUxfe8bkLJcqj9HLgYb9wUGXPVPIKwzOVmhc=",
+  "senderKey": "63rtC9u+O1oy4XnqboZW7QPeApyMgoLEC6oQpEQeyfw=",
   "features": [
     {
       "featureName": "feature_x",
-      "featureEnabled": true
-    },
-    {
-      "featureName": "feature_y",
-      "featureEnabled": false
-    },
-    {
-      "featureName": "feature_z",
       "featureEnabled": true
     }
   ],
