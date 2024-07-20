@@ -16,7 +16,11 @@
   "senderKey": "LLjS9uknXuY57c/OVHQLnqWXrTmBBhQGDS3nbCtlRjM=",
   "features": [
     {
-      "featureName": "feature_x",
+      "featureName": "enable_toppers_lane_remote",
+      "featureEnabled": true
+    },
+    {
+      "featureName": "enable_dictionary_daily_word_remote",
       "featureEnabled": true
     }
   ],
