@@ -1,6 +1,6 @@
 {
   "applicationId": "apps.khee.vidya.debug",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "versionCode": 119,
   "versionName": "New Version 4.0.39",
   "releaseNotes": [

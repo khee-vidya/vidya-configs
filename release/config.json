@@ -1,6 +1,6 @@
 {
   "applicationId": "apps.khee.vidya",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "maintenanceEnabled": false,
   "maintenanceMessage": "KHEE Vidya app is currently undergoing maintenance for improvements. The app will be temporarily unavailable during this time. We apologize for any inconvenience and appreciate your patience.",
   "releaseNotes": [
