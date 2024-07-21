@@ -1,6 +1,7 @@
 {
+  "applicationId": "apps.khee.vidya",
   "forceUpdate": true,
-  "maintenanceEnabled": true,
+  "maintenanceEnabled": false,
   "maintenanceMessage": "KHEE Vidya app is currently undergoing maintenance for improvements. The app will be temporarily unavailable during this time. We apologize for any inconvenience and appreciate your patience.",
   "releaseNotes": [
     "• New UI Improvements",
@@ -22,6 +23,10 @@
     {
       "featureName": "enable_dictionary_daily_word_remote",
       "featureEnabled": true
+    },
+    {
+      "featureName": "all_faculty_has_access_to_create_account",
+      "featureEnabled": true
     }
   ],
   "banners": [
@@ -33,7 +38,7 @@
       "button1Action": "open_settings",
       "button2Text": "Okay",
       "button2Action": "okay",
-      "icon": "",
+      "image": "",
       "active": true,
       "startDate": "2024-03-29 00:00:00",
       "endDate": "2024-03-29 00:00:00"
@@ -46,7 +51,7 @@
       "button1Action": "open_settings",
       "button2Text": "Okay",
       "button2Action": "okay",
-      "icon": "",
+      "image": "",
       "active": true,
       "startDate": "2024-03-29 00:00:00",
       "endDate": "2024-03-29 00:00:00"
@@ -59,7 +64,7 @@
       "button1Action": "open_settings",
       "button2Text": "Okay",
       "button2Action": "okay",
-      "icon": "",
+      "image": "",
       "active": true,
       "startDate": "2024-03-29 00:00:00",
       "endDate": "2024-03-29 00:00:00"
