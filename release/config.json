@@ -31,7 +31,7 @@
   ],
   "banners": [
     {
-      "id": "231020",
+      "id": 1,
       "title": "Test Banner",
       "message": "Test Banner",
       "button1Text": "Open Sessiongs",
@@ -44,7 +44,7 @@
       "endDate": "2024-03-29 00:00:00"
     },
     {
-      "id": "231020",
+      "id": 2,
       "title": "Test Banner",
       "message": "Test Banner",
       "button1Text": "Open Sessiongs",
@@ -57,7 +57,7 @@
       "endDate": "2024-03-29 00:00:00"
     },
     {
-      "id": "231020",
+      "id": 3,
       "title": "Test Banner",
       "message": "Test Banner",
       "button1Text": "Open Sessiongs",
