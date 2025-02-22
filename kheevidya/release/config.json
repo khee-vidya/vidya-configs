@@ -1,0 +1,76 @@
+{
+  "applicationId": "apps.khee.vidya",
+  "forceUpdate": false,
+  "maintenanceEnabled": false,
+  "maintenanceMessage": "KHEE Vidya app is currently undergoing maintenance for improvements. The app will be temporarily unavailable during this time. We apologize for any inconvenience and appreciate your patience.",
+  "releaseNotes": [
+    "✦ App launch Time Improved",
+    "✦ Homework bulk submit support",
+    "✦ Chat audio record upload support",
+    "✦ Chat message label",
+    "✦ Exam results view after submission",
+    "✦ New UI Improvements",
+    "✦ Minor bug fixes"
+  ],
+  "versionCode": 127,
+  "versionName": "New Version 4.0.47",
+  "ytKey": "GCRDXMaau5xQipJ8q0BcR5Uw7V8SBLi87AkaL1yPGv8qPT5Avf4AHD1bET2W32O3",
+  "aiKey": "Bte1Yayg//n+YJHgZ8jdh0e+TiuqR7jncX+MYVkuaoQ0/I7Dz5OnhKNqLxMCv70q",
+  "senderId": "5zqyLTVtUxfe8bkLJcqj9HLgYb9wUGXPVPIKwzOVmhc=",
+  "senderKey": "63rtC9u+O1oy4XnqboZW7QPeApyMgoLEC6oQpEQeyfw=",
+  "features": [
+    {
+      "featureName": "enable_toppers_lane_remote",
+      "featureEnabled": true
+    },
+    {
+      "featureName": "enable_dictionary_daily_word_remote",
+      "featureEnabled": true
+    },
+    {
+      "featureName": "all_faculty_has_access_to_create_account",
+      "featureEnabled": true
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "title": "Test Banner",
+      "message": "Test Banner",
+      "button1Text": "Open Sessiongs",
+      "button1Action": "open_settings",
+      "button2Text": "Okay",
+      "button2Action": "okay",
+      "image": "",
+      "active": true,
+      "startDate": "2024-03-29 00:00:00",
+      "endDate": "2024-03-29 00:00:00"
+    },
+    {
+      "id": 2,
+      "title": "Test Banner",
+      "message": "Test Banner",
+      "button1Text": "Open Sessiongs",
+      "button1Action": "open_settings",
+      "button2Text": "Okay",
+      "button2Action": "okay",
+      "image": "",
+      "active": true,
+      "startDate": "2024-03-29 00:00:00",
+      "endDate": "2024-03-29 00:00:00"
+    },
+    {
+      "id": 3,
+      "title": "Test Banner",
+      "message": "Test Banner",
+      "button1Text": "Open Sessiongs",
+      "button1Action": "open_settings",
+      "button2Text": "Okay",
+      "button2Action": "okay",
+      "image": "",
+      "active": true,
+      "startDate": "2024-03-29 00:00:00",
+      "endDate": "2024-03-29 00:00:00"
+    }
+  ]
+}
