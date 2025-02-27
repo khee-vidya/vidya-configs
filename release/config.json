@@ -4,6 +4,8 @@
   "maintenanceMessage": "KHEE Vidya app is currently undergoing maintenance for improvements. The app will be temporarily unavailable during this time. We apologize for any inconvenience and appreciate your patience.",
   "forceUpdate": true,
   "releaseNotes": [
+    "✦ TV Connect Option",
+    "✦ RFID Attendace History",
     "✦ App launch Time Improved",
     "✦ Homework bulk submit support",
     "✦ Chat audio record upload support",
