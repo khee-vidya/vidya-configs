@@ -1,11 +1,12 @@
 {
   "applicationId": "apps.khee.vidya.debug",
-  "forceUpdate": false,
-  "versionCode": 117,
-  "versionName": "New Version 4.0.37",
+  "forceUpdate": true,
+  "versionCode": 139,
+  "versionName": "New Version 4.0.59",
   "releaseNotes": [
     "✦ New UI Improvements",
-    "✦ Holidays screen implemented",
+    "✦ TV Connect Option",
+    "✦ RFID Attendace History",
     "✦ Dashboard UI Improvements",
     "✦ Minor bug fixes"
   ],
