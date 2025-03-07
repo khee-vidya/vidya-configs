@@ -1,8 +1,8 @@
 {
   "applicationId": "apps.khee.vidya.debug",
   "forceUpdate": false,
-  "versionCode": 142,
-  "versionName": "New Version 1.0.12",
+  "versionCode": 143,
+  "versionName": "New Version 1.0.13",
   "releaseNotes": [
     "✦ New UI Improvements",
     "✦ TV Connect Option",
@@ -10,7 +10,7 @@
     "✦ Dashboard UI Improvements",
     "✦ Minor bug fixes"
   ],
-  "maintenanceEnabled": true,
+  "maintenanceEnabled": false,
   "maintenanceMessage": "KHEE Vidya app is currently undergoing maintenance for improvements. The app will be temporarily unavailable during this time. We apologize for any inconvenience and appreciate your patience.",
   "ytKey": "EMsSDFoHKvJTR4ZOUwjwXkkY3Dwb2vOAS7lE1yp2c+MXMceO8EmRuo1y9TOH3I9L",
   "aiKey": "secd7agWGxCDuWhoma3XFQblpFibN6BovQFQ98+wLDWxkWDiYE1XPG3z2krkJrLs",
