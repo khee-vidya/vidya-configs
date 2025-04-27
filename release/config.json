@@ -1,7 +1,7 @@
 {
   "applicationId": "apps.khee.vidya",
-  "maintenanceEnabled": false,
-  "maintenanceMessage": "KHEE Vidya app is currently undergoing maintenance for improvements. The app will be temporarily unavailable during this time. We apologize for any inconvenience and appreciate your patience.",
+  "maintenanceEnabled": true,
+  "maintenanceMessage": "KHEE Vidya app is currently undergoing maintenance for improvements. The app will be temporarily unavailable during this time. We apologize for any inconvenience and appreciate your patience. Maintenance : 27.04.2025 and 28.04.2025.",
   "forceUpdate": true,
   "releaseNotes": [
     "✦ TV Connect Option",
