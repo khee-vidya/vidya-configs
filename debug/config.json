@@ -10,7 +10,7 @@
     "✦ Dashboard UI Improvements",
     "✦ Minor bug fixes"
   ],
-  "maintenanceEnabled": true,
+  "maintenanceEnabled": false,
   "maintenanceMessage": "KHEE Vidya app is currently undergoing maintenance for improvements. The app will be temporarily unavailable during this time. We apologize for any inconvenience and appreciate your patience. From 28.04.2025 to 30.04.2025",
   "ytKey": "EMsSDFoHKvJTR4ZOUwjwXkkY3Dwb2vOAS7lE1yp2c+MXMceO8EmRuo1y9TOH3I9L",
   "aiKey": "secd7agWGxCDuWhoma3XFQblpFibN6BovQFQ98+wLDWxkWDiYE1XPG3z2krkJrLs",
@@ -27,6 +27,14 @@
     },
     {
       "featureName": "all_faculty_has_access_to_create_account",
+      "featureEnabled": true
+    },
+    {
+      "featureName": "enable_login_alert_emails",
+      "featureEnabled": true
+    },
+    {
+      "featureName": "enable_server_error_emails",
       "featureEnabled": true
     }
   ],
