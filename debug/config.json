@@ -36,6 +36,10 @@
     {
       "featureName": "enable_server_error_emails",
       "featureEnabled": true
+    },
+    {
+      "featureName": "enable_other_emails",
+      "featureEnabled": true
     }
   ],
   "banners": [
