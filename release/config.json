@@ -32,6 +32,18 @@
     {
       "featureName": "all_faculty_has_access_to_create_account",
       "featureEnabled": true
+    },
+    {
+      "featureName": "enable_login_alert_emails",
+      "featureEnabled": true
+    },
+    {
+      "featureName": "enable_server_error_emails",
+      "featureEnabled": true
+    },
+    {
+      "featureName": "enable_other_emails",
+      "featureEnabled": true
     }
   ],
   "banners": [
