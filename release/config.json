@@ -2,7 +2,9 @@
   "applicationId": "apps.khee.vidya",
   "maintenanceEnabled": false,
   "maintenanceMessage": "KHEE Vidya app is currently undergoing maintenance for improvements. The app will be temporarily unavailable during this time. We apologize for any inconvenience and appreciate your patience.",
-  "forceUpdate": true,
+  "forceUpdate": false,
+  "versionCode": 176,
+  "versionName": "New Version 4.0.96",
   "releaseNotes": [
     "✦ TV Connect Option",
     "✦ RFID Attendace History",
@@ -14,8 +16,6 @@
     "✦ New UI Improvements",
     "✦ Minor bug fixes"
   ],
-  "versionCode": 175,
-  "versionName": "New Version 4.0.95",
   "ytKey": "GCRDXMaau5xQipJ8q0BcR5Uw7V8SBLi87AkaL1yPGv8qPT5Avf4AHD1bET2W32O3",
   "aiKey": "Bte1Yayg//n+YJHgZ8jdh0e+TiuqR7jncX+MYVkuaoQ0/I7Dz5OnhKNqLxMCv70q",
   "senderId": "5zqyLTVtUxfe8bkLJcqj9HLgYb9wUGXPVPIKwzOVmhc=",
