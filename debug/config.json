@@ -36,8 +36,8 @@
   "banners": [
     {
       "id": "098f6bcd4621d373cade4e832627b4f6",
-      "title": "Test Banner",
-      "message": "Test Banner",
+      "title": "Cyclone Montha",
+      "message": "Heavy Rains Lash Telangana Following Cyclone Montha, IMD Issues Red Alert",
       "negetiveButtonText": "Cancel",
       "negetiveButtonAction": "cancel",
       "positiveButtonText": "Open Sessiongs",
@@ -50,8 +50,8 @@
     },
     {
       "id": "098f6bcd4621d373cade4e832627b422",
-      "title": "Test Banner 2",
-      "message": "Test Banner 2",
+      "title": "Are there any evacuation orders or alerts in place?",
+      "message": "Multiple states and local authorities issued graded warnings and activated evacuation and relief measures.",
       "negetiveButtonText": "Cancel",
       "negetiveButtonAction": "cancel",
       "positiveButtonText": null,
@@ -64,8 +64,8 @@
     },
     {
       "id": "098f6bcd4621d373cade4e832627b333",
-      "title": "Test Banner 2",
-      "message": "Test Banner 2",
+      "title": "How can I protect myself from mold after flooding?",
+      "message": "Before entering a flooded area, make sure it is safe and free from electrical hazards or structural damage.",
       "negetiveButtonText": null,
       "negetiveButtonAction": null,
       "positiveButtonText": null,
