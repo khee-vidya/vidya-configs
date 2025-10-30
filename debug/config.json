@@ -72,7 +72,7 @@
       "positiveButtonAction": null,
       "image": "",
       "url": null,
-      "active": true,
+      "active": false,
       "startDate": "2025-10-28 00:00:00",
       "endDate": "2025-11-14 00:00:00"
     }
