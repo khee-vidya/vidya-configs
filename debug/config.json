@@ -1,11 +1,10 @@
 {
-  "applicationId": "apps.khee.vidya.debug",
+  "applicationId": "vidya.khee.in",
   "forceUpdate": false,
-  "versionCode": 176,
-  "versionName": "New Version 4.0.96",
+  "versionCode": 2,
+  "versionName": "New Version 1.0.2",
   "releaseNotes": [
     "✦ New UI Improvements",
-    "✦ TV Connect Option",
     "✦ RFID Attendace History",
     "✦ Dashboard UI Improvements",
     "✦ Minor bug fixes"
@@ -19,14 +18,6 @@
   "features": [
     {
       "featureName": "enable_toppers_lane_remote",
-      "featureEnabled": true
-    },
-    {
-      "featureName": "enable_dictionary_daily_word_remote",
-      "featureEnabled": true
-    },
-    {
-      "featureName": "all_faculty_has_access_to_create_account",
       "featureEnabled": true
     },
     {
@@ -44,40 +35,43 @@
   ],
   "banners": [
     {
-      "id": 1,
+      "id": "098f6bcd4621d373cade4e832627b4f6",
       "title": "Test Banner",
       "message": "Test Banner",
-      "button1Text": "Open Sessiongs",
-      "button1Action": "open_settings",
-      "button2Text": "Okay",
-      "button2Action": "okay",
+      "negetiveButtonText": "Cancel",
+      "negetiveButtonAction": "cancel",
+      "positiveButtonText": "Open Sessiongs",
+      "positiveButtonAction": "open_settings",
       "image": "",
+      "url": null,
       "active": true,
       "startDate": "2024-03-29 00:00:00",
       "endDate": "2024-03-29 00:00:00"
     },
     {
-      "id": 2,
-      "title": "Test Banner",
-      "message": "Test Banner",
-      "button1Text": "Open Sessiongs",
-      "button1Action": "open_settings",
-      "button2Text": "Okay",
-      "button2Action": "okay",
+      "id": "098f6bcd4621d373cade4e832627b422",
+      "title": "Test Banner 2",
+      "message": "Test Banner 2",
+      "negetiveButtonText": "Cancel",
+      "negetiveButtonAction": "cancel",
+      "positiveButtonText": null,
+      "positiveButtonAction": null,
       "image": "",
+      "url": null,
       "active": true,
       "startDate": "2024-03-29 00:00:00",
       "endDate": "2024-03-29 00:00:00"
     },
     {
-      "id": 3,
-      "title": "Test Banner",
-      "message": "Test Banner",
-      "button1Text": "Open Sessiongs",
-      "button1Action": "open_settings",
-      "button2Text": "Okay",
-      "button2Action": "okay",
+      "id": "098f6bcd4621d373cade4e832627b333",
+      "title": "Test Banner 2",
+      "message": "Test Banner 2",
+      "negetiveButtonText": null,
+      "negetiveButtonAction": null,
+      "positiveButtonText": null,
+      "positiveButtonAction": null,
       "image": "",
+      "url": null,
       "active": true,
       "startDate": "2024-03-29 00:00:00",
       "endDate": "2024-03-29 00:00:00"
