@@ -3,9 +3,10 @@
   "maintenanceEnabled": false,
   "maintenanceMessage": "KHEE Vidya app is currently undergoing maintenance for improvements. The app will be temporarily unavailable during this time. We apologize for any inconvenience and appreciate your patience.",
   "forceUpdate": false,
-  "versionCode": 176,
-  "versionName": "New Version 4.0.96",
+  "versionCode": 183,
+  "versionName": "New Version 4.0.103",
   "releaseNotes": [
+    "✦ Minor bug fixes",
     "✦ TV Connect Option",
     "✦ RFID Attendace History",
     "✦ App launch Time Improved",
@@ -13,8 +14,7 @@
     "✦ Chat audio record upload support",
     "✦ Chat message label",
     "✦ Exam results view after submission",
-    "✦ New UI Improvements",
-    "✦ Minor bug fixes"
+    "✦ New UI Improvements"
   ],
   "ytKey": "GCRDXMaau5xQipJ8q0BcR5Uw7V8SBLi87AkaL1yPGv8qPT5Avf4AHD1bET2W32O3",
   "aiKey": "Bte1Yayg//n+YJHgZ8jdh0e+TiuqR7jncX+MYVkuaoQ0/I7Dz5OnhKNqLxMCv70q",
