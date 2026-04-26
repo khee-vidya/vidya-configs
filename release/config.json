@@ -1,1 +1,8 @@
-
+{
+  "enableMaintenance": false,
+  "maintenanceMessage": "",
+  "bannerEnable": false,
+  "bannerMessage": "",
+  "enablePayments": true,
+  "paymentsBannerMessage": ""
+}
