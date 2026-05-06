@@ -6,7 +6,7 @@
   "enablePayments": true,
   "paymentsBannerMessage": "ం",
   "enablePaymentSuccessEmails": false,
-  "enablePaymentFailureEmails": true,
-  "enableMemberCreationFailureEmails": true,
+  "enablePaymentFailureEmails": false,
+  "enableMemberCreationFailureEmails": false,
   "enableMemberDeletionEmails": true
 }
