@@ -8,5 +8,5 @@
   "enablePaymentSuccessEmails": false,
   "enablePaymentFailureEmails": false,
   "enableMemberCreationFailureEmails": false,
-  "enableMemberDeletionEmails": true
+  "enableMemberDeletionEmails": false
 }
