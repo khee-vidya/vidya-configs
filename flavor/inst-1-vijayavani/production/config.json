@@ -2,9 +2,9 @@
   "applicationId": "apps.khee.vidya",
   "maintenanceEnabled": false,
   "maintenanceMessage": "The app is currently undergoing scheduled maintenance and will be temporarily unavailable. We apologize for any inconvenience and thank you for your patience while we make improvements.",
-  "forceUpdate": true,
-  "versionCode": 23,
-  "versionName": "New Version 1.0.23",
+  "forceUpdate": false,
+  "versionCode": 1,
+  "versionName": "New Version 1.0.1",
   "releaseNotes": [
     "✦ TV Connect Option",
     "✦ RFID Attendace History",

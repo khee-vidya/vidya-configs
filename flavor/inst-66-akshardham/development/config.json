@@ -1,8 +1,8 @@
 {
   "applicationId": "vidya.khee.in",
-  "forceUpdate": true,
-  "versionCode": 23,
-  "versionName": "New Version 1.0.23",
+  "forceUpdate": false,
+  "versionName": "New Version 1.0.1",
+  "versionCode": 1,
   "releaseNotes": [
     "✦ New UI Improvements",
     "✦ RFID Attendace History",
