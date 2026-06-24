@@ -1,0 +1,80 @@
+{
+  "applicationId": "vidya.khee.in",
+  "forceUpdate": true,
+  "versionCode": 23,
+  "versionName": "New Version 1.0.23",
+  "releaseNotes": [
+    "✦ New UI Improvements",
+    "✦ RFID Attendace History",
+    "✦ Dashboard UI Improvements",
+    "✦ Minor bug fixes"
+  ],
+  "maintenanceEnabled": false,
+  "maintenanceMessage": "The app is currently undergoing scheduled maintenance and will be temporarily unavailable. We apologize for any inconvenience and thank you for your patience while we make improvements.",
+  "ytKey": "EMsSDFoHKvJTR4ZOUwjwXkkY3Dwb2vOAS7lE1yp2c+MXMceO8EmRuo1y9TOH3I9L",
+  "aiKey": "secd7agWGxCDuWhoma3XFQblpFibN6BovQFQ98+wLDWxkWDiYE1XPG3z2krkJrLs",
+  "senderId": "0xG7CQaNgpx1ZTjxOf1X/Rk7Os27ykvzroSl+T+Nsm8=",
+  "senderKey": "LLjS9uknXuY57c/OVHQLnqWXrTmBBhQGDS3nbCtlRjM=",
+  "features": [
+    {
+      "featureName": "enable_toppers_lane_remote",
+      "featureEnabled": true
+    },
+    {
+      "featureName": "enable_login_alert_emails",
+      "featureEnabled": true
+    },
+    {
+      "featureName": "enable_server_error_emails",
+      "featureEnabled": true
+    },
+    {
+      "featureName": "enable_other_emails",
+      "featureEnabled": true
+    }
+  ],
+  "banners": [
+    {
+      "id": "098f6bcd4621d373cade4e832627b4f6",
+      "title": "Cyclone Montha",
+      "message": "Heavy Rains Lash Telangana Following Cyclone Montha, IMD Issues Red Alert",
+      "negetiveButtonText": "Cancel",
+      "negetiveButtonAction": "cancel",
+      "positiveButtonText": "Open Sessiongs",
+      "positiveButtonAction": "open_settings",
+      "image": "",
+      "url": null,
+      "active": true,
+      "startDate": "2025-10-29 00:00:00",
+      "endDate": "2025-10-31 00:00:00"
+    },
+    {
+      "id": "098f6bcd4621d373cade4e832627b422",
+      "title": "Are there any evacuation orders or alerts in place?",
+      "message": "Multiple states and local authorities issued graded warnings and activated evacuation and relief measures.",
+      "negetiveButtonText": "Cancel",
+      "negetiveButtonAction": "cancel",
+      "positiveButtonText": null,
+      "positiveButtonAction": null,
+      "image": "",
+      "url": null,
+      "active": true,
+      "startDate": "2025-10-29 00:00:00",
+      "endDate": "2025-11-31 00:00:00"
+    },
+    {
+      "id": "098f6bcd4621d373cade4e832627b333",
+      "title": "How can I protect myself from mold after flooding?",
+      "message": "Before entering a flooded area, make sure it is safe and free from electrical hazards or structural damage.",
+      "negetiveButtonText": null,
+      "negetiveButtonAction": null,
+      "positiveButtonText": null,
+      "positiveButtonAction": null,
+      "image": "",
+      "url": null,
+      "active": false,
+      "startDate": "2025-10-28 00:00:00",
+      "endDate": "2025-11-14 00:00:00"
+    }
+  ]
+}
