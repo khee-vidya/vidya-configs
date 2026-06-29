@@ -1,10 +1,10 @@
 {
-  "applicationId": "apps.khee.vidya",
+  "applicationId": "baba.khee.in",
   "maintenanceEnabled": false,
   "maintenanceMessage": "The app is currently undergoing scheduled maintenance and will be temporarily unavailable. We apologize for any inconvenience and thank you for your patience while we make improvements.",
   "forceUpdate": true,
   "versionCode": 23,
-"updateUrl": "https://play.google.com/store/apps/details?id=<appId>",
+"updateUrl": "https://play.google.com/store/apps/details?id=baba.khee.in",
   "versionName": "New Version 1.0.23",
   "releaseNotes": [
     "✦ TV Connect Option",

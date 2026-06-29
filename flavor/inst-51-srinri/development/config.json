@@ -1,7 +1,8 @@
 {
-  "applicationId": "vidya.khee.in",
+  "applicationId": "srinri.khee.in",
   "forceUpdate": true,
   "versionCode": 23,
+  "updateUrl": "https://play.google.com/store/apps/details?id=srinri.khee.in",
   "versionName": "New Version 1.0.23",
   "releaseNotes": [
     "✦ New UI Improvements",
