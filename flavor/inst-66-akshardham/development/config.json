@@ -3,6 +3,7 @@
   "forceUpdate": false,
   "versionName": "New Version 1.0.1",
   "versionCode": 1,
+  "updateUrl": "https://apps.apple.com/us/app/",
   "releaseNotes": [
     "✦ New UI Improvements",
     "✦ RFID Attendace History",
