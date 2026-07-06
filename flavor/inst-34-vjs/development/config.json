@@ -1,7 +1,7 @@
 {
   "applicationId": "vjs.khee.in",
-  "forceUpdate": true,
-  "versionCode": 23,
+  "forceUpdate": false,
+  "versionCode": 26,
 "updateUrl": "https://play.google.com/store/apps/details?id=vjs.khee.in",
   "versionName": "New Version 1.0.23",
   "releaseNotes": [
