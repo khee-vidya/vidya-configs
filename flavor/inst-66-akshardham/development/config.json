@@ -1,7 +1,7 @@
 {
   "applicationId": "akshardham.khee.in",
-  "forceUpdate": false,
-  "versionCode": 26,
+  "forceUpdate": true,
+  "versionCode": 31,
   "updateUrl": "https://play.google.com/store/apps/details?id=akshardham.khee.in",
   "versionName": "New Version 1.0.26",
   "releaseNotes": [
