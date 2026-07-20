@@ -1,9 +1,9 @@
 {
   "applicationId": "educoz.khee.in",
   "forceUpdate": false,
-  "versionCode": 26,
+  "versionCode": 32,
 "updateUrl": "https://play.google.com/store/apps/details?id=educoz.khee.in",
-  "versionName": "New Version 1.0.26",
+  "versionName": "New Version 1.0.32",
   "releaseNotes": [
     "✦ New UI Improvements",
     "✦ RFID Attendace History",

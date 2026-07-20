@@ -1,9 +1,9 @@
 {
   "applicationId": "akshardham.khee.in",
-  "forceUpdate": true,
-  "versionCode": 31,
+  "forceUpdate": false,
+  "versionCode": 32,
   "updateUrl": "https://play.google.com/store/apps/details?id=akshardham.khee.in",
-  "versionName": "New Version 1.0.31",
+  "versionName": "New Version 1.0.32",
   "releaseNotes": [
     "✦ New UI Improvements",
     "✦ RFID Attendace History",
