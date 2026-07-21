@@ -2,8 +2,8 @@
   "applicationId": "baba.khee.in",
   "maintenanceEnabled": false,
   "maintenanceMessage": "The app is currently undergoing scheduled maintenance and will be temporarily unavailable. We apologize for any inconvenience and thank you for your patience while we make improvements.",
-  "forceUpdate": true,
-  "versionCode": 32,
+  "forceUpdate": false,
+  "versionCode": 31,
 "updateUrl": "https://play.google.com/store/apps/details?id=baba.khee.in",
   "versionName": "New Version 1.0.32",
   "releaseNotes": [
