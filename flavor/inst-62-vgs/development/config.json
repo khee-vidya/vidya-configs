@@ -1,6 +1,6 @@
 {
   "applicationId": "vgs.khee.in",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "versionCode": 32,
 "updateUrl": "https://play.google.com/store/apps/details?id=vgs.khee.in",
   "versionName": "New Version 1.0.32",
