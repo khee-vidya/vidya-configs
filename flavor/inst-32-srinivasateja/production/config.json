@@ -1,10 +1,10 @@
 {
-  "applicationId": "oxford.khee.in",
+  "applicationId": "srinivasateja.khee.in",
   "maintenanceEnabled": false,
   "maintenanceMessage": "The app is currently undergoing scheduled maintenance and will be temporarily unavailable. We apologize for any inconvenience and thank you for your patience while we make improvements.",
   "forceUpdate": false,
   "versionCode": 31,
-"updateUrl": "https://play.google.com/store/apps/details?id=oxford.khee.in",
+  "updateUrl": "https://play.google.com/store/apps/details?id=srinivasateja.khee.in",
   "versionName": "New Version 1.0.32",
   "releaseNotes": [
     "✦ Chat UI issue fix",
