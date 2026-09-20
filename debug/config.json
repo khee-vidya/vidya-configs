@@ -9,7 +9,7 @@
   "enablePaymentFailureEmails": false,
   "enableMemberCreationFailureEmails": false,
   "enableMemberDeletionEmails": false,
-  "enableAndroidForceUpdate": false,
+  "enableAndroidForceUpdate": true,
   "androidVersionCode": 40,
   "enableIosForceUpdate": false,
   "iosVersionCode": 40
