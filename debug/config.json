@@ -11,6 +11,6 @@
   "enableMemberDeletionEmails": false,
   "enableAndroidForceUpdate": true,
   "androidVersionCode": 40,
-  "enableIosForceUpdate": false,
+  "enableIosForceUpdate": true,
   "iosVersionCode": 40
 }
