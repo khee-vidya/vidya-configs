@@ -5,9 +5,14 @@
 "updateUrl": "https://play.google.com/store/apps/details?id=educoz.khee.in",
   "versionName": "New Version 2.0.46",
   "releaseNotes": [
-    "✦ New UI Improvements",
+    "✦ Chat UI issue fix",
     "✦ RFID Attendace History",
-    "✦ Dashboard UI Improvements",
+    "✦ App launch Time Improved",
+    "✦ Homework bulk submit support",
+    "✦ Chat audio record upload support",
+    "✦ Chat message label",
+    "✦ Exam results view after submission",
+    "✦ New UI Improvements",
     "✦ Minor bug fixes"
   ],
   "maintenanceEnabled": false,
